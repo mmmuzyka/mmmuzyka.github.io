@@ -148,6 +148,7 @@ margin-top: 40px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+    line-height: 170%;
 }
 
 .about-image {
